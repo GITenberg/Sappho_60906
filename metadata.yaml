@@ -1,0 +1,26 @@
+_repo: Sappho_60906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tucker, T. G. (Thomas George)
+    alias: Tucker, Thomas George
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '4683'
+    url: http://www.gutenberg.org/2009/agents/4683
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_George_Tucker
+description: ''
+gutenberg_issued: '2019-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sappho -- Criticism and interpretation'
+- !lcc 'PA'
+- GITenberg
+title: Sappho
+url: http://www.gutenberg.org/ebooks/60906
